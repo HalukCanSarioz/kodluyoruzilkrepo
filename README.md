@@ -31,7 +31,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Patika.dev
 
-
 [Click me to go to Patika.dev!](https://www.patika.dev/tr/bootcamp)
 
 ## License
